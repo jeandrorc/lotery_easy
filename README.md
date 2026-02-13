@@ -1,15 +1,28 @@
-# 🎲 Sistema de Consulta de Resultados de Loterias
+# 🎲 Sistema de Consulta de Resultados de Loterias - v2
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn">
+  <img src="https://img.shields.io/badge/version-2.0.0-blue?style=for-the-badge" alt="Version: 2.0.0">
   <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=for-the-badge" alt="Status: Em Desenvolvimento">
 </p>
 
 <p align="center">
   Uma aplicação moderna para consultar, analisar e salvar resultados das loterias da Caixa Econômica Federal.
 </p>
+
+## 🆕 O que há de novo na v2
+
+> Branch dedicada para a versão 2 do projeto. Esta versão traz melhorias arquiteturais e novas funcionalidades em relação à v1.
+
+### Roadmap v2
+- [ ] Interface Web com dashboard interativo
+- [ ] Gráficos e estatísticas de frequência de números
+- [ ] Gerador de jogos baseado em análises estatísticas
+- [ ] Testes automatizados
+- [ ] Banco de dados para consultas mais rápidas
+- [ ] Design responsivo para mobile
 
 ## 📋 Índice
 
